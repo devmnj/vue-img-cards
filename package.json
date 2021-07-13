@@ -1,15 +1,17 @@
 {
-  "name": "@manojap/vue-img-cards",
-  "version": "0.0.1",
-  "description": "A set of Vue image card components for special purposes.",
+  "name": "@codehat/vue-img-cards",
+  "version": "0.1.2",
+  "author": "manojap",
+  "license": "MIT",
+  "description": "A set of Vue image card components for special purposes",
   "main": "dist/vue-img-cards.ssr.js",
   "browser": "dist/vue-img-cards.esm.js",
   "module": "dist/vue-img-cards.esm.js",
   "unpkg": "dist/vue-img-cards.min.js",
   "types": "vue-img-cards.d.ts",
-   "repository": {
-     "url" :"git://github.com/manojap/vue-img-cards.git"
-   },
+  "repository": {
+    "url": "git://github.com/manojap/vue-img-cards.git"
+  },
   "files": [
     "dist/*",
     "vue-img-cards.d.ts",
@@ -49,5 +51,8 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "dependencies": {
+    
   }
 }

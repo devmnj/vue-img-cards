@@ -1,6 +1,9 @@
 /* eslint-disable import/prefer-default-export */
 
 
-export { default as VueProfileCard } from './vue-profile-card.vue';
-export { default as VueMiniBio } from './vue-profile-card.vue';
+import  VueProfileCard   from './vue-profile-card.vue';
+import   VueMiniBio   from './vue-mini-bio.vue';
 
+export {
+  VueProfileCard,VueMiniBio
+}
