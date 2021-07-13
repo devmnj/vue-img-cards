@@ -1,6 +1,6 @@
 {
   "name": "@codehat/vue-img-cards",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "author": "manojap",
   "license": "MIT",
   "description": "A set of Vue image card components for special purposes",
@@ -12,6 +12,7 @@
   "repository": {
     "url": "git://github.com/manojap/vue-img-cards.git"
   },
+  "keywords": ["vue-aniamation","image-animation","vue-library","image-card"],
   "files": [
     "dist/*",
     "vue-img-cards.d.ts",
