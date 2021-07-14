@@ -1,6 +1,6 @@
 {
   "name": "@codehat/vue-img-cards",
-  "version": "0.2.0",
+  "version": "1.2.1",
   "author": "manojap",
   "license": "MIT",
   "description": "A set of Vue image card components for special purposes",
